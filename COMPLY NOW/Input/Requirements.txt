@@ -1,0 +1,4 @@
+1) HTML5 - responsive
+2) Preprocessors - SCSS
+3) Fonts - use the closest google fonts or web-safe fonts.
+4) https://s3.amazonaws.com/scrstorage/i3d7t21f4e640627731.jpg - make some animation on hover
